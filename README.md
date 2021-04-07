@@ -3,7 +3,7 @@
 An app which gives nutri score of food on the basis of its ingredients and added minerals and additives.
 
 # Previews
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 | <img src="https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735430.png" width="300" height="590"> | <img src="https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617736177.png" width="300" height="590"> |
 | <img src="https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735824.png" width="300" height="590">  | <img src="https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735899.png" width="300" height="590">  |
