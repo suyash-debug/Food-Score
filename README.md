@@ -4,6 +4,7 @@ An app which gives nutri score of food on the basis of its ingredients and added
 
 # Previews
 ![alt text](https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735430.png?|width = 60)
+![test image size]<img src="https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735430.png" width="400" height="790">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
