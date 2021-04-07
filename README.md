@@ -3,7 +3,7 @@
 An app which gives nutri score of food on the basis of its ingredients and added minerals and additives.
 
 # Previews
-![alt text](https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735430.png?raw=true)
+![alt text](https://github.com/suyash-debug/Food-Score/blob/master/ss/Screenshot_1617735430.png){:height="50%" width="50%"}
 ## Getting Started
 
 This project is a starting point for a Flutter application.
